@@ -61,3 +61,8 @@ Os resultados foram apresentados em forma de gráficos comparativos entre as abo
 * Linguagem de Programação: Java
 
 * Estruturas de Dados: Listas Encadeadas, Matrizes
+
+## 📌 Status do Projeto
+
+✅ Concluído
+
